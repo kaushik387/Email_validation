@@ -1,4 +1,4 @@
-# kaushik_codes
+# Email validation in python 
 this is my first Git Repository
 Email validation in python
 
